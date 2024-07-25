@@ -2,6 +2,7 @@ public class Arr {
     public static void main(String[] args) {
         // Q: store a roll no
         int a = 19;
+        System.out.println(a);
 
         // Q: store a person
         String name = "Sadique Hasan";
